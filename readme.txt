@@ -1,3 +1,3 @@
-Git is a version control system.
-Git is free a software.
-Git is not diffcult learn
+Git is a distributed version control system.
+Git is a free software.
+Git is not diffcult to learn
